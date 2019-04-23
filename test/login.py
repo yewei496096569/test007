@@ -5,4 +5,8 @@ num3 = 30
 num4 = 40
 num5 = 50
 manager = 110
+
 wo = 2
+
+zhangsan1=1
+
